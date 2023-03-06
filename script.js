@@ -29,3 +29,5 @@ window.addEventListener("load", function() {
        let list = document.getElementById("faultyItems");
        list.style.visibility = "hidden"; 
     });
+
+    //why is this sooooo hard :( DOM test not passing
