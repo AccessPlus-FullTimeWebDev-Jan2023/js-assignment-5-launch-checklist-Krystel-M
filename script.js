@@ -39,4 +39,6 @@ window.addEventListener("load", function() {
    })
    
 });       list.style.visibility = "hidden"; 
+       let list = document.getElementById("faultyItems");
+       list.style.visibility = "hidden"; 
     });
